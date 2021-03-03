@@ -1,4 +1,4 @@
-##### ENG
+##### EN
 
 # Landing Page of Instagram
 
@@ -11,7 +11,7 @@
 
 # Landing Page do Instagram
 
-- Todo o conteúdo dessa landing page foi criado para fins educacionais ou de aprendizado.:books:
+- Todo o conteúdo dessa landing page foi criado para fins educacionais.:books:
 - Você pode copia-lo, modifica-lo e distribui-lo livremente desde que não seja com intenções maliciosas.
 
 
